@@ -1,0 +1,12 @@
+[submodule "teabag"]
+	path = teabag
+	url = git@github.com:MitchyBAwesome/teabag.git
+[submodule "cup"]
+	path = cup
+	url = git@github.com:MitchyBAwesome/cup.git
+[submodule "kettle"]
+	path = kettle
+	url = git@github.com:MitchyBAwesome/kettle.git
+[submodule "pot"]
+	path = pot
+	url = git@github.com:MitchyBAwesome/pot.git
